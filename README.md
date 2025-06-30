@@ -1,2 +1,2 @@
-# Dashboard-Using-Python-Matplotlib
+# Dashboard-Using-Python-Matplotlib-Tkinter
 Built a desktop dashboard application in Python, combining Tkinter (for GUI) and Matplotlib (for data visualization). It is ideal for beginners exploring how to create interactive, data-driven applications.
